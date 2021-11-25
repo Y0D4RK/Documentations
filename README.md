@@ -8,10 +8,18 @@
 - [SemVer popularized](https://putaindecode.io/articles/semver-c-est-quoi/)
 
 
-## JAVASCRIPTS
+## JAVASCRIPT
 
--
+- [Javascript info.](https://javascript.info/)
+- [Modern JS](https://www.modernjs.com/)
+- [React](https://fr.reactjs.org/docs/getting-started.html)
+- [TypeScript](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
 
 ## PHP
 
--
+- [PHP manual](https://www.php.net/)
+
+## Dev OPS
+
+- Python [===>   40%]
+- Shell  [======>70%]
