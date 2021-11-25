@@ -21,9 +21,9 @@
 
 ## Dev OPS
 
-- Docker 
+- Docker <br>
 [=======>..] 80%
-- Python 
+- Python <br>
 [===>......] 40%
-- Shell  
+- Shell <br>
 [=====>....] 60%
